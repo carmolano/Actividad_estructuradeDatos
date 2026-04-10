@@ -1,0 +1,14 @@
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\bin\Debug\net10.0\Structuno.exe
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\bin\Debug\net10.0\Structuno.deps.json
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\bin\Debug\net10.0\Structuno.runtimeconfig.json
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\bin\Debug\net10.0\Structuno.dll
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\bin\Debug\net10.0\Structuno.pdb
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\obj\Debug\net10.0\Structuno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\obj\Debug\net10.0\Structuno.AssemblyInfoInputs.cache
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\obj\Debug\net10.0\Structuno.AssemblyInfo.cs
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\obj\Debug\net10.0\Structuno.csproj.CoreCompileInputs.cache
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\obj\Debug\net10.0\Structuno.dll
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\obj\Debug\net10.0\refint\Structuno.dll
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\obj\Debug\net10.0\Structuno.pdb
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\obj\Debug\net10.0\Structuno.genruntimeconfig.cache
+C:\Users\carlo\Documents\Actividad_estructuradeDatos\c#_codigo\Structuno\obj\Debug\net10.0\ref\Structuno.dll
