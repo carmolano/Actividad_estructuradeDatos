@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Structuno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7dac46357cacb30623c77df33079a15ce649e5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3186255fa5449469f601186e9c8dfbc34b37de5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Structuno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Structuno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
